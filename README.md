@@ -79,7 +79,7 @@ Python
 Oct 2019 | https://github.com/thisisclement/Reddit-Classifier
 
 <p align="center">
-  <img width="700" src="./images/proj_3.png"  />
+  <img width="500" src="./images/proj_3.png"  />
 </p>
 
 ##### Problem Statement
@@ -117,7 +117,7 @@ Python
 Nov 2019 | https://github.com/thisisclement/West-Nile-Virus-Prediction
 
 <p align="center">
-  <img width="500" src="./images/proj_4.png"  />
+  <img width="700" src="./images/proj_4.png"  />
 </p>
 
 ##### Problem Statement
