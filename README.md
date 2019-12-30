@@ -156,7 +156,7 @@ Python
 Nov 2019 | https://github.com/thisisclement/Hate-Speech-Prediction
 
 <p align="center">
-  <img width="500" src="./images/capstone.png"  />
+  <img width="700" src="./images/capstone.png"  />
 </p>
 
 
