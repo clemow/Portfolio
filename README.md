@@ -72,7 +72,7 @@ It is important to note that the above conclusions are only based on the Ames ho
 Python
 
 ##### Key Libraries
-`scikit-learn`: `LinearRegression`, `Lasso`, `Ridge`, `ElasticNet` `model_selection`
+`scikit-learn`: `LinearRegression`, `Lasso`, `Ridge`, `ElasticNet`, `model_selection`
 
 
 ### 3. Subreddit Classification
