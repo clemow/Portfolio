@@ -213,7 +213,7 @@ However, to truly increase the performance of the model, further research on und
 Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-CMS
 
 <p align="center">
-  <img width="250" src="./images/cms_homepg.png"  />
+  <img width="250" src="./images/web/cms_homepg.png"  />
 </p>
 
 #### Abstract
@@ -221,6 +221,7 @@ A Courier Service Management System was designed with Human Computer Interaction
 
 #### Language & Tools
 `PHP`, `JavaScript`, `HTML`, `CSS`
+
 ---
 
 ## Mobile App Development
@@ -229,7 +230,7 @@ A Courier Service Management System was designed with Human Computer Interaction
 Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-Android
 
 <p align="center">
-  <img width="250" src="./images/android_couriermgt_conso.png"  />
+  <img width="250" src="./images/mobile/android_couriermgt_conso.png"  />
 </p>
 
 #### Abstract
