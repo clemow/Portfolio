@@ -1,11 +1,12 @@
 # Portfolio
 ---
-Hello there! I'm Clement and this is a summary of the projects I have worked on and I have included their respective GitHub links for more technical details. If you're interested to know more, feel free to [get in touch](mailto:clementow.zs@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/clement-ow/))!
+Hello there! I'm Clement and this is a summary of the projects I have worked on and I have included their respective GitHub links for more technical details. If you're interested to know more, feel free to [get in touch](mailto:clementow.zs@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/clement-ow/)!
 
 
 #### Contents
 - [Data Science](https://github.com/thisisclement/portfolio#data-science)
-
+- [Web Development](https://github.com/thisisclement/portfolio#web-development)
+- [Mobile App Development](https://github.com/thisisclement/portfolio#mobile-app-development)
 ---
 ## Data Science
 
@@ -203,3 +204,36 @@ However, to truly increase the performance of the model, further research on und
 
 ##### Key Libraries
 `scikit-learn`, `Word2Vec`, `keras`, `ktrain`, `Flask`
+
+---
+
+## Web Development
+
+### Courier Service Management System
+Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-CMS
+
+<p align="center">
+  <img width="250" src="./images/cms_homepg.png"  />
+</p>
+
+#### Abstract
+A Courier Service Management System was designed with Human Computer Interaction (HCI) design approaches in mind. Features include responsive design, on-the-fly form validation, one-click address lookup, simplified request logger, verification of mobile number and automated confirmation email.
+
+#### Language & Tools
+`PHP`, `JavaScript`, `HTML`, `CSS`
+---
+
+## Mobile App Development
+
+### Courier Service Management Android Application
+Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-Android
+
+<p align="center">
+  <img width="250" src="./images/android_couriermgt_conso.png"  />
+</p>
+
+#### Abstract
+The Courier Service Management Android App, specially tailored for delivery personnel, aims to streamline the delivery process and notify users on the delivery or pickup of their parcel.
+
+#### Language & Tools
+`Java`, `Eclipse`
