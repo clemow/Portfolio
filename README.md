@@ -216,10 +216,10 @@ Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-CMS
   <img width="500" src="./images/web/cms_homepg.png"  />
 </p>
 
-#### Abstract
+##### Abstract
 A Courier Service Management System was designed with Human Computer Interaction (HCI) design approaches in mind. Features include responsive design, on-the-fly form validation, one-click address lookup, simplified request logger, verification of mobile number and automated confirmation email.
 
-#### Language & Tools
+##### Language & Tools
 `PHP`, `JavaScript`, `HTML`, `CSS`
 
 ---
@@ -233,8 +233,8 @@ Dec 2014 | https://github.com/thisisclement/Courier-Service-Management-Android
   <img width="750" src="./images/mobile/android_couriermgt_conso.png"  />
 </p>
 
-#### Abstract
+##### Abstract
 The Courier Service Management Android App, specially tailored for delivery personnel, aims to streamline the delivery process and notify users on the delivery or pickup of their parcel.
 
-#### Language & Tools
+##### Language & Tools
 `Java`, `Eclipse`
