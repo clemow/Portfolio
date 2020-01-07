@@ -57,7 +57,7 @@ Tested 4 different regression models with various feature engineering and select
 Apart from the area and age of the property, the top feature that highly influences the price is a property located at Stone Brooks neighbourhood. It is no wonder the best predictor as this neighbourhood is very convenient and is the closest to Iowa State University, the largest university in Iowa state. It is also located very close to downtown. The other two neighbourhoods, Northridge Heights and Northridge are situated close together and is slightly further away to then University but is equidistant to downtown as compared to Stone Brook neighbourhood. Moreover all three neighbourhoods are very close to elementary, middle and high schools and have amenities really close by.
 
 <p align="center">
-  <img width="800" src="./images/proj_2_map.png"  />
+  <img width="650" src="./images/proj_2_map.png"  />
 </p>
 
 However, it is interesting to note that the land contour that is hilly is valued more than the other land contour features. It is perhaps has a good privacy rating among home dwellers in Ames.
